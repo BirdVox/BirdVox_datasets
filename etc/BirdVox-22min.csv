@@ -1,0 +1,23 @@
+,taxon_id,taxon_name,csv_name,minute,minute_count
+0,1,Passerine,20150920233602_6_23_58_fold-unit05_utc-10h_week-Sep14_cluster-5.csv,109,41
+1,2,Pelecaniforme,unit10_2015-09-27_dawn.csv,69,5
+2,1.1,American sparrow,20151014225503_1_04_56_fold-unit05_utc-22h_week-Oct7_cluster-5.csv,28,43
+3,1.2,Cardinal,20150920233602_6_23_58_fold-unit05_utc-10h_week-Sep14_cluster-5.csv,109,41
+4,1.3,Thrush,20150910235403_6_05_57_fold-unit07_utc-10h_week-Sep7_cluster-1.csv,0,29
+5,1.4,Warbler,20150925023412_1_25_48_fold-unit-01-10_utc-08h_week-Sep21_cluster-5.csv,0,35
+6,2.1,Heron,unit10_2015-09-27_dawn.csv,69,5
+7,1.4.1,American redstart,20150827002103_5_38_57_fold-unit07_utc-10h_week-Aug21_cluster-3.csv,72,7
+8,1.1.1,American tree sparrow,20151108222202_5_37_58_fold-unit08_utc-08h_week-Nov7_cluster-7.csv,101,11
+9,1.4.2,Bay-breasted warbler,20150902001106_1_48_54_fold-unit03_utc-06h_week-Sep1_cluster-3.csv,45,12
+10,1.4.3,Black-throated blue warbler,20150925023412_1_25_48_fold-unit-01-10_utc-08h_week-Sep21_cluster-5.csv,0,35
+11,1.4.4,Canada warbler,20150910235403_6_05_57_fold-unit07_utc-10h_week-Sep7_cluster-1.csv,0,29
+12,1.1.2,Chipping sparrow,20151014225503_1_04_56_fold-unit05_utc-22h_week-Oct7_cluster-5.csv,28,43
+13,1.4.5,Common yellowthroat,20150925023412_1_25_48_fold-unit-01-10_utc-08h_week-Sep21_cluster-5.csv,0,35
+14,1.3.1,Gray-cheeked thrush,20150920233602_6_23_58_fold-unit05_utc-10h_week-Sep14_cluster-5.csv,109,41
+15,2.1.1,Green heron,unit10_2015-09-27_dawn.csv,69,5
+16,1.4.6,Mourning warbler,unit03_2015-09-04_dawn.csv,108,42
+17,1.4.7,Ovenbird,unit03_2015-09-04_dawn.csv,108,42
+18,1.2.1,Rose-breasted grosbeak,20150920233602_6_23_58_fold-unit05_utc-10h_week-Sep14_cluster-5.csv,109,41
+19,1.1.3,Savannah sparrow,20151008230503_2_54_57_fold-unit08_utc-06h_week-Oct7_cluster-7.csv,19,19
+20,1.3.2,Swainson's thrush,unit02_2015-09-26_dawn.csv,117,49
+21,1.1.4,White-throated sparrow,20151014225503_1_04_56_fold-unit05_utc-22h_week-Oct7_cluster-5.csv,28,43
